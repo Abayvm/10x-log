@@ -8,5 +8,5 @@ Started: July 1, 2025.
 
 - `logs/` – daily progress notes  
 - `projects/` – apps and backend work  
-- `leetcode/` – algorithm practice  
+- `DSA/` – algorithm practice  
 - `debugging/` – bugs and how I fixed them
